@@ -1,1 +1,1 @@
-![images/logo.png](10 Again! Logo)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
