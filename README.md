@@ -1,1 +1,1 @@
-![/images/logo.png](10 Again! Logo)
+![images/logo.png](10 Again! Logo)
