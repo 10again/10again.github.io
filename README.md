@@ -1,7 +1,3 @@
-![10 Again! Logo](/images/logo.png)
-
-# 10 Again!
-
 Don’t miss out on 10 Again! a free, minimalist, tetris-style block puzzle game. Keep your fingers nimble and your mind active as things heat up in this puzzle game.  10 Again! is easy to pick up and instantly playable. Help you spend quality time anywhere you go with the ultimate lightweight, hyper-casual game!
 
 ## HOW TO PLAY
@@ -12,19 +8,19 @@ Don’t miss out on 10 Again! a free, minimalist, tetris-style block puzzle game
 
 ## FEATURES
 
-#### MINIMALIST GRAPHICS
-  Minimal sounds and visual effects so you can focus on the game, not useless extras.
+**MINIMALIST GRAPHICS**. 
+Minimal sounds and visual effects so you can focus on the game, not useless extras.
 
-#### NO WIFI? NO PROBLEM!
-  You can play offline anytime.
+**NO WIFI? NO PROBLEM!**. 
+You can play offline anytime.
 
-#### UNLIMITED GAMEPLAY
-  The game gets gradually faster with time.
+**UNLIMITED GAMEPLAY**. 
+The game gets gradually faster with time.
 
-#### CUSTOMIZE TOUCH TRACKING
+**CUSTOMIZE TOUCH TRACKING**. 
 Precisely tune the sensitivity of touch tracking in Settings to match your level of comfort. 
 
-#### LEADERBOARD
+**LEADERBOARD**. 
 Show off your skills and compete with other players around the world on the game leaderboard.
 
 ## FEEDBACK
