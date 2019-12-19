@@ -1,0 +1,1 @@
+I hope that you enjoy playing 10 Again!. I read all your reviews carefully to make the game even better with every update. Please considering leaving me some feedback at tenagain-app@gmail.com to let me know why you love this game and how you'd like me to make it better.
